@@ -12,4 +12,5 @@
 - JavaScript
 
 ## Author
-Your Name
+Shazna Muees
+
